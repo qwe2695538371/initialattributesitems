@@ -1,0 +1,21 @@
+{
+  "attribute.name.generic.max_health": "Max Health",
+  "attribute.name.generic.follow_range": "Follow Range",
+  "attribute.name.generic.knockback_resistance": "Knockback Resistance",
+  "attribute.name.generic.movement_speed": "Movement Speed",
+  "attribute.name.generic.flying_speed": "Flying Speed",
+  "attribute.name.generic.attack_damage": "Attack Damage",
+  "attribute.name.generic.attack_knockback": "Attack Knockback",
+  "attribute.name.generic.attack_speed": "Attack Speed",
+  "attribute.name.generic.armor": "Armor",
+  "attribute.name.generic.armor_toughness": "Armor Toughness",
+  "attribute.name.generic.luck": "Luck",
+  "attribute.name.zombie.spawn_reinforcements": "Zombie Reinforcement",
+  "attribute.name.horse.jump_strength": "Horse Jump Strength",
+  "attribute.name.forge.swim_speed": "Swim Speed",
+  "attribute.name.forge.nametag_distance": "Nametag Distance",
+  "attribute.name.forge.entity_gravity": "Entity Gravity",
+  "attribute.name.forge.block_reach": "Block Reach",
+  "attribute.name.forge.entity_reach": "Entity Reach",
+  "attribute.name.forge.step_height": "Step Height"
+}

@@ -1,0 +1,21 @@
+{
+  "attribute.name.generic.max_health": "最大生命值",
+  "attribute.name.generic.follow_range": "跟随范围",
+  "attribute.name.generic.knockback_resistance": "击退抗性",
+  "attribute.name.generic.movement_speed": "移动速度",
+  "attribute.name.generic.flying_speed": "飞行速度",
+  "attribute.name.generic.attack_damage": "攻击伤害",
+  "attribute.name.generic.attack_knockback": "攻击击退",
+  "attribute.name.generic.attack_speed": "攻击速度",
+  "attribute.name.generic.armor": "护甲值",
+  "attribute.name.generic.armor_toughness": "护甲韧性",
+  "attribute.name.generic.luck": "幸运",
+  "attribute.name.zombie.spawn_reinforcements": "僵尸援军几率",
+  "attribute.name.horse.jump_strength": "马跳跃力",
+  "attribute.name.forge.swim_speed": "游泳速度",
+  "attribute.name.forge.nametag_distance": "姓名牌显示距离",
+  "attribute.name.forge.entity_gravity": "实体重力",
+  "attribute.name.forge.block_reach": "方块交互距离",
+  "attribute.name.forge.entity_reach": "实体交互距离",
+  "attribute.name.forge.step_height": "踏阶高度"
+}
